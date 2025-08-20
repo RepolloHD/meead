@@ -1,4 +1,4 @@
-# 📦 Inventario de Productos — One Page Web
+# 📦 Inventario de Productos
 
 Bienvenido a tu sistema de gestión de inventario. Esta página está diseñada para ayudarte a controlar tus productos de forma eficiente, visualizar el stock en tiempo real y tomar decisiones inteligentes desde una sola interfaz.
 
@@ -19,7 +19,7 @@ Todo esto desde una sola página, optimizada para velocidad, claridad y accesibi
 
 ---
 
-## ✅ Ventajas de usar esta one page
+## ✅ Ventajas de usar
 
 ### 🔄 Eficiencia operativa
 - Acceso rápido a información crítica

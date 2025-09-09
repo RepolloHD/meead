@@ -1,105 +1,150 @@
-nventario de Zapatillas
+# 👟 Inventario de Zapatillas
+
 Bienvenido a tu sistema de gestión de zapatillas. Esta plataforma está diseñada para ayudarte a controlar tu stock, visualizar modelos disponibles y tomar decisiones inteligentes desde una sola interfaz.
 
-🧾 ¿Qué ofrece esta página?
+---
+
+## 🧾 ¿Qué ofrece esta página?
+
 Una one page web de inventario de zapatillas es una solución compacta y potente que permite:
 
-Registrar y visualizar modelos de zapatillas
-
-Controlar tallas y stock disponible
-
-Ver movimientos de entrada y salida por modelo y talla
-
-Generar reportes de ventas y rotación
-
-Asignar roles y permisos a tu equipo
-
-Acceder a soporte técnico fácilmente
+- Registrar y visualizar modelos de zapatillas  
+- Controlar tallas y stock disponible  
+- Ver movimientos de entrada y salida por modelo y talla  
+- Generar reportes de ventas y rotación  
+- Asignar roles y permisos a tu equipo  
+- Acceder a soporte técnico fácilmente  
 
 Todo desde una sola página, optimizada para velocidad, claridad y accesibilidad.
 
-✅ Ventajas de usarla
-🔄 Eficiencia operativa Consulta rápida por modelo, talla o marca Menos clics, más control sobre tu stock
+---
 
-📱 Accesibilidad Diseño responsive para móviles y tablets Ideal para tiendas físicas, bodegas o ferias
+## ✅ Ventajas de usarla
 
-📊 Toma de decisiones informada Estadísticas de modelos más vendidos Exportación de datos para análisis externo
+### 🔄 Eficiencia operativa  
+- Consulta rápida por modelo, talla o marca  
+- Menos clics, más control sobre tu stock  
 
-🔐 Seguridad y control Roles definidos para evitar errores Historial de movimientos por modelo y talla
+### 📱 Accesibilidad  
+- Diseño responsive para móviles y tablets  
+- Ideal para tiendas físicas, bodegas o ferias  
 
-🧩 Escalabilidad Preparada para integrarse con sistemas de ventas Lista para crecer con tu negocio
+### 📊 Toma de decisiones informada  
+- Estadísticas de modelos más vendidos  
+- Exportación de datos para análisis externo  
 
-🧪 Calidad del sistema ⚡ Rendimiento: carga rápida (<2 segundos) y respuesta ágil en búsquedas 🎯 Usabilidad: interfaz intuitiva, accesible y fácil de usar en cualquier dispositivo 🧼 Mantenibilidad: código modular, documentado y preparado para actualizaciones 📈 Escalabilidad: arquitectura flexible para crecer en productos, usuarios y ubicaciones 🔒 Seguridad: protección de datos, control de acceso y trazabilidad de acciones 📱 Compatibilidad: funciona en todos los navegadores modernos y sistemas operativos 🧪 Fiabilidad: sistema estable, con backups automáticos y recuperación ante fallos
+### 🔐 Seguridad y control  
+- Roles definidos para evitar errores  
+- Historial de movimientos por modelo y talla  
 
-🔧 Posibles mejoras futuras Integración con e-commerce Sincroniza el inventario con tu tienda online para actualizar stock automáticamente.
+### 🧩 Escalabilidad  
+- Preparada para integrarse con sistemas de ventas  
+- Lista para crecer con tu negocio  
 
-Notificaciones inteligentes Alertas por correo o WhatsApp cuando el stock de una talla esté bajo.
+### 🧪 Calidad del sistema  
+- ⚡ **Rendimiento:** carga rápida (<2 segundos) y respuesta ágil en búsquedas  
+- 🎯 **Usabilidad:** interfaz intuitiva, accesible y fácil de usar en cualquier dispositivo  
+- 🧼 **Mantenibilidad:** código modular, documentado y preparado para actualizaciones  
+- 📈 **Escalabilidad:** arquitectura flexible para crecer en productos, usuarios y ubicaciones  
+- 🔒 **Seguridad:** protección de datos, control de acceso y trazabilidad de acciones  
+- 📱 **Compatibilidad:** funciona en todos los navegadores modernos y sistemas operativos  
+- 🧪 **Fiabilidad:** sistema estable, con backups automáticos y recuperación ante fallos  
 
-Inteligencia artificial Predicción de demanda por temporada y sugerencias de reposición.
+---
 
-Multibodega Control de inventario en sucursales o puntos de venta distintos.
+## 🔧 Posibles mejoras futuras
 
-Escaneo móvil App para registrar movimientos escaneando códigos QR o de barras en las cajas.
+- **Integración con e-commerce:** sincroniza el inventario con tu tienda online para actualizar stock automáticamente  
+- **Notificaciones inteligentes:** alertas por correo o WhatsApp cuando el stock de una talla esté bajo  
+- **Inteligencia artificial:** predicción de demanda por temporada y sugerencias de reposición  
+- **Multibodega:** control de inventario en sucursales o puntos de venta distintos  
+- **Escaneo móvil:** app para registrar movimientos escaneando códigos QR o de barras en las cajas  
+- **Gestión por tallas y colores:** ideal para manejar variantes de cada modelo  
 
-Gestión por tallas y colores Ideal para manejar variantes de cada modelo.
+---
 
-🟢 Resumen del Inventario
-Total de modelos registrados: 328
+## 🟢 Resumen del Inventario
 
-Modelos con stock bajo: 14
+- **Total de modelos registrados:** 328  
+- **Modelos con stock bajo:** 14  
 
-Últimos movimientos:
+**Últimos movimientos:**  
+- Entrada: 20 pares de "Nike Air Max 90" (Talla 42)  
+- Salida: 3 pares de "Adidas Superstar" (Talla 38)  
 
-Entrada: 20 pares de "Nike Air Max 90" (Talla 42)
+🔍 *Ver Dashboard Completo*
 
-Salida: 3 pares de "Adidas Superstar" (Talla 38) 🔍 Ver Dashboard Completo
+---
 
-📋 Catálogo de Zapatillas
+## 📋 Catálogo de Zapatillas
+
 Filtra por marca, talla, color, proveedor o estado.
 
-Modelo	Código SKU	Talla	Cantidad	Ubicación	Estado
-Nike Air Max 90	NAM90-042	42	20	Estante A	✅ Suficiente
-Adidas Superstar	ADSUP-038	38	3	Estante B	⚠️ Bajo stock
-Vans Old Skool Black	VOSB-041	41	0	Estante C	❌ Agotado
-📁 Ver Detalle de Modelo
+| Modelo                | Código SKU   | Talla | Cantidad | Ubicación | Estado        |
+|----------------------|--------------|-------|----------|-----------|---------------|
+| Nike Air Max 90      | NAM90-042    | 42    | 20       | Estante A | ✅ Suficiente  |
+| Adidas Superstar     | ADSUP-038    | 38    | 3        | Estante B | ⚠️ Bajo stock |
+| Vans Old Skool Black | VOSB-041     | 41    | 0        | Estante C | ❌ Agotado     |
 
-🔍 Detalle de Modelo
-Modelo: Adidas Superstar Código SKU: ADSUP-038 Categoría: Zapatillas Urbanas Talla: 38 Cantidad actual: 3 pares Ubicación: Estante B
+📁 *Ver Detalle de Modelo*
 
-Historial:
+---
 
-Entrada: +10 (01/08/2025)
+## 🔍 Detalle de Modelo
 
-Salida: -7 (15/08/2025)
+- **Modelo:** Adidas Superstar  
+- **Código SKU:** ADSUP-038  
+- **Categoría:** Zapatillas Urbanas  
+- **Talla:** 38  
+- **Cantidad actual:** 3 pares  
+- **Ubicación:** Estante B  
+
+**Historial:**  
+- Entrada: +10 (01/08/2025)  
+- Salida: -7 (15/08/2025)  
 
 [✏️ Editar] [➖ Registrar salida] [➕ Registrar entrada]
 
-📈 Estadísticas y Reportes
-📊 Modelos más vendidos:
-Nike Air Force 1
+---
 
-Converse Chuck Taylor
+## 📈 Estadísticas y Reportes
 
-📉 Modelos con menor rotación:
-Puma RS-X
+### 📊 Modelos más vendidos:
+- Nike Air Force 1  
+- Converse Chuck Taylor  
 
-Reebok Classic
+### 📉 Modelos con menor rotación:
+- Puma RS-X  
+- Reebok Classic  
 
 [📤 Exportar a Excel] [📄 Generar PDF]
 
-👥 Gestión de Usuarios
-Roles disponibles:
+---
 
-👑 Administrador: acceso total
+## 👥 Gestión de Usuarios
 
-🛠️ Vendedor: gestión de productos
+**Roles disponibles:**
 
-👁️ Auditor: solo lectura ⚙️ Configurar permisos
+- 👑 Administrador: acceso total  
+- 🛠️ Vendedor: gestión de productos  
+- 👁️ Auditor: solo lectura  
 
-📞 Soporte y Contacto
+⚙️ *Configurar permisos*
+
+---
+
+## 📞 Soporte y Contacto
+
 ¿Tienes dudas o necesitas ayuda?
 
-💬 Chat en vivo 📱 WhatsApp: +56 9 1234 5678 📧 Email: soporte@zapatillaspro.cl 📚 Ver documentación
+- 💬 Chat en vivo  
+- 📱 WhatsApp: +56 9 1234 5678  
+- 📧 Email: soporte@zapatillaspro.cl  
+- 📚 Ver documentación  
 
-📌 Footer
-© 2025 ZapatillasPro. Todos los derechos reservados. Inicio | Catálogo | Reportes | Soporte
+---
+
+## 📌 Footer
+
+© 2025 ZapatillasPro. Todos los derechos reservados.  
+**Inicio | Catálogo | Reportes | Soporte**
